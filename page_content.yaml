@@ -1,0 +1,78 @@
+band:
+  optional_description:
+    ukrainian: Український постгранжевий рок-гурт
+    english: Ukrainian post-grunge rock band
+  optional_instagram_username: rosequit.ua
+
+featured_release:
+  title: Розквіт
+  release_year: 2026
+  listen_link: https://open.spotify.com/album/4We7AlMrRodn8T86xYw53u
+  optional_kind:
+    ukrainian: Дебютний альбом
+    english: Debut album
+  optional_track_count: 13
+
+songs:
+  - title: Дійти
+    release_year: 2026
+    listen_link: https://open.spotify.com/album/5OwWSpjhVFvPwgAR9kqcov
+    optional_lyric_video_link: https://www.youtube.com/watch?v=6UZtN6mFO9s
+
+  - title: Ніч
+    release_year: 2026
+    listen_link: https://open.spotify.com/album/4k7fw1mHnjxFoSLhb4o45J
+    optional_lyric_video_link: https://www.youtube.com/watch?v=JE8S57hWRnw
+
+  - title: Хвилі
+    release_year: 2025
+    listen_link: https://open.spotify.com/track/1p1N8mzJJVLAwfJkRbDnsd
+    optional_lyric_video_link: https://www.youtube.com/watch?v=WngyVxUWnyU
+
+  - title: Зима
+    release_year: 2025
+    listen_link: https://open.spotify.com/track/7GFjGeDRrePp9TXS3VEi7G
+
+  - title: Друг
+    release_year: 2024
+    listen_link: https://open.spotify.com/track/6OkME1LbidazaQcko3woOx
+
+  - title: Без тебе
+    release_year: 2024
+    listen_link: https://open.spotify.com/track/0Cyhm1zgY6a58h0un49rq8
+
+  - title: Сонце
+    release_year: 2023
+    listen_link: https://open.spotify.com/track/2hioIC27PG8V522boBgUYE
+
+  - title: Палай-гори
+    release_year: 2022
+    listen_link: https://open.spotify.com/album/0BcvQmtLzX9ZSVQ5BMSzss
+
+  - title: Лютий
+    release_year: 2022
+    listen_link: https://open.spotify.com/album/2dpanX02Sw7XLDh0FzE0cB
+
+  - title: Слово
+    release_year: 2021
+    listen_link: https://open.spotify.com/album/7JwELStAwH6HGB2owkQQS9
+
+  - title: Зникаю
+    release_year: 2021
+    listen_link: https://open.spotify.com/album/4tw5e71fg7Wtkrvoz4TuxT
+
+  - title: Грані
+    release_year: 2020
+    listen_link: https://open.spotify.com/album/6AumswjrBEE1HrTZIHZhrF
+
+  - title: Спи
+    release_year: 2020
+    listen_link: https://open.spotify.com/album/11B0wKBiI8Q8WBW3R2yOiq
+
+  - title: Спогад
+    release_year: 2019
+    listen_link: https://open.spotify.com/album/2behtArmPXeSPpSLs669te
+
+  - title: Любов
+    release_year: 2019
+    listen_link: https://open.spotify.com/album/5ufMZeIBWy0KWXOqU4XNpX

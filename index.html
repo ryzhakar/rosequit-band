@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ROSEQUIT · РОЗКВІТ</title>
+<meta name="description" content="ROSEQUIT (РОЗКВІТ) — український постгранжевий рок-гурт. Дебютний альбом «Розквіт».">
+<meta name="color-scheme" content="dark">
+<meta name="theme-color" content="#000000">
+<meta property="og:title" content="ROSEQUIT · РОЗКВІТ">
+<meta property="og:description" content="Український постгранжевий рок-гурт. Дебютний альбом «Розквіт».">
+<meta property="og:image" content="https://rosequit.band/social_preview.jpg">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://rosequit.band/">
+<link rel="canonical" href="https://rosequit.band/">
+<link rel="icon" href="icon.png">
+<link rel="preload" href="page_content.yaml" as="fetch" crossorigin>
+<link rel="preload" href="interface_text.yaml" as="fetch" crossorigin>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main>
+
+  <header>
+    <h1><img src="logo.png" alt="ROSEQUIT [РОЗКВІТ]" width="260" height="77"></h1>
+    <div class="language-switch" role="group" aria-label="Мова · Language">
+      <button type="button" data-language="ukrainian" lang="uk">UA</button>
+      <button type="button" data-language="english" lang="en">EN</button>
+    </div>
+  </header>
+
+  <p id="band-description" class="band-description"></p>
+
+  <section id="featured-release" class="featured-release" hidden></section>
+
+  <p id="fallback-listen-button" class="fallback">
+    <a class="button" href="https://open.spotify.com/artist/7smBqzQRi2ccPWAYkMdDFs">Слухати на Spotify · Listen on Spotify</a>
+  </p>
+
+  <section id="lyric-videos-section" hidden>
+    <h2 id="lyric-videos-heading"></h2>
+    <ul id="lyric-videos-list" class="rows"></ul>
+  </section>
+
+  <section id="songs-section" hidden>
+    <h2 id="songs-heading"></h2>
+    <p id="songs-hint" class="hint"></p>
+    <ul id="songs-list" class="rows"></ul>
+  </section>
+
+  <footer>
+    <a id="instagram-link" class="social" hidden>
+      <span id="instagram-name"></span>
+      <span id="instagram-username" class="handle"></span>
+    </a>
+  </footer>
+
+</main>
+<script src="vendor/js-yaml.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

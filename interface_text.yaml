@@ -1,0 +1,31 @@
+album_listen_button:
+  ukrainian: Слухати альбом
+  english: Listen to the album
+
+album_track_count:
+  ukrainian: 'Треків: {count}'
+  english: 'Tracks: {count}'
+
+songs_heading:
+  ukrainian: Пісні
+  english: Songs
+
+songs_hint:
+  ukrainian: Натисніть на пісню й оберіть, де слухати
+  english: Tap a song, then choose where to listen
+
+lyric_videos_heading:
+  ukrainian: Лірик-відео
+  english: Lyric videos
+
+instagram_name:
+  ukrainian: Instagram
+  english: Instagram
+
+listen_to_release_for_screen_readers:
+  ukrainian: Слухати «{title}»
+  english: Listen to “{title}”
+
+watch_lyric_video_for_screen_readers:
+  ukrainian: Дивитися лірик-відео «{title}»
+  english: Watch the lyric video for “{title}”
